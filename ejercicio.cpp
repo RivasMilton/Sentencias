@@ -18,7 +18,7 @@ int main() //funcion
 
     if (personaje == cosa) //compara si ingresaste la palabra del tipo de personaje que eres 
     {
-        cout << "Te saluda" << endl;
+        cout << "Te salvastes no eres una presa de kraven" << endl;
         
     }
     else if (personaje == animal)//compara si ingresaste la palabra del tipo de personaje que eres
@@ -27,7 +27,7 @@ int main() //funcion
     }
     else if (personaje == malo)//compara si ingresaste la palabra del tipo de personaje que eres
     {
-        cout << "Te salvastes no eres una presa de kraven" << endl;
+        cout << "Te saluda" << endl;
     }
     else 
     {
